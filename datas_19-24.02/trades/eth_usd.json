@@ -1,0 +1,896 @@
+{
+ "doTrade": "buy",
+ "price": 940.58,
+ "time": "02:03:53",
+ "validity": 20.29296875
+}{
+ "doTrade": "sell",
+ "price": 933.58065,
+ "time": "04:56:20",
+ "validity": 15
+}{
+ "doTrade": "buy",
+ "price": 943.22712,
+ "time": "04:59:22",
+ "validity": 17.0859375
+}{
+ "doTrade": "sell",
+ "price": 936.47234,
+ "time": "05:00:26",
+ "validity": 30.25
+}{
+ "doTrade": "sell",
+ "price": 936.47228,
+ "time": "05:02:00",
+ "validity": 16.5
+}{
+ "doTrade": "buy",
+ "price": 943.12,
+ "time": "05:04:53",
+ "validity": 23.125
+}{
+ "doTrade": "sell",
+ "price": 936.47228,
+ "time": "05:08:36",
+ "validity": 12.265625
+}{
+ "doTrade": "buy",
+ "price": 943.21,
+ "time": "05:09:46",
+ "validity": 19.75
+}{
+ "doTrade": "sell",
+ "price": 936.88,
+ "time": "08:06:31",
+ "validity": 10.5625
+}{
+ "doTrade": "buy",
+ "price": 943.5,
+ "time": "08:10:30",
+ "validity": 21.000000048428774
+}{
+ "doTrade": "sell",
+ "price": 937.1,
+ "time": "08:19:56",
+ "validity": 13
+}{
+ "doTrade": "buy",
+ "price": 939.99,
+ "time": "15:20:44",
+ "validity": 26.553417420641647
+}{
+ "doTrade": "buy",
+ "price": 904.58388,
+ "time": "01:17:38",
+ "validity": 10.25
+}{
+ "doTrade": "sell",
+ "price": 898.02083,
+ "time": "01:31:40",
+ "validity": 10.6875
+}{
+ "doTrade": "buy",
+ "price": 905.21834,
+ "time": "01:32:28",
+ "validity": 12.638671875
+}{
+ "doTrade": "buy",
+ "price": 877.98,
+ "time": "02:19:37",
+ "validity": 10.25
+}{
+ "doTrade": "sell",
+ "price": 870.11001,
+ "time": "02:19:47",
+ "validity": 10.875
+}{
+ "doTrade": "buy",
+ "price": 876.31968,
+ "time": "02:21:01",
+ "validity": 13.394287109375
+}{
+ "doTrade": "sell",
+ "price": 866.57973,
+ "time": "02:38:56",
+ "validity": 21.18931359797716
+}{
+ "doTrade": "sell",
+ "price": 891.83,
+ "time": "08:43:13",
+ "validity": 12.444151208324556
+}{
+ "doTrade": "buy",
+ "price": 898.17,
+ "time": "08:44:55",
+ "validity": 16
+}{
+ "doTrade": "sell",
+ "price": 891.83,
+ "time": "08:45:29",
+ "validity": 16
+}{
+ "doTrade": "sell",
+ "price": 894.90001,
+ "time": "08:50:31",
+ "validity": 11.140625
+}{
+ "doTrade": "buy",
+ "price": 901.17,
+ "time": "08:51:57",
+ "validity": 11
+}{
+ "doTrade": "sell",
+ "price": 894.9,
+ "time": "08:52:31",
+ "validity": 11.25
+}{
+ "doTrade": "sell",
+ "price": 894.9,
+ "time": "08:52:56",
+ "validity": 11.25
+}{
+ "doTrade": "sell",
+ "price": 894.9,
+ "time": "08:54:35",
+ "validity": 14.625
+}{
+ "doTrade": "sell",
+ "price": 894.90001,
+ "time": "08:55:16",
+ "validity": 20
+}{
+ "doTrade": "sell",
+ "price": 898.08001,
+ "time": "08:57:43",
+ "validity": 12.463623046875
+}{
+ "doTrade": "sell",
+ "price": 898.21001,
+ "time": "08:59:35",
+ "validity": 12.224576579406857
+}{
+ "doTrade": "buy",
+ "price": 901.7129,
+ "time": "11:06:26",
+ "validity": 14.5
+}{
+ "doTrade": "buy",
+ "price": 899.51182,
+ "time": "11:06:34",
+ "validity": 23.75
+}{
+ "doTrade": "buy",
+ "price": 898.91593,
+ "time": "11:07:10",
+ "validity": 15
+}{
+ "doTrade": "sell",
+ "price": 892.38013,
+ "time": "11:15:06",
+ "validity": 18.423651387347334
+}{
+ "doTrade": "sell",
+ "price": 894.9,
+ "time": "13:07:12",
+ "validity": 19.90625
+}{
+ "doTrade": "buy",
+ "price": 901.589,
+ "time": "13:10:36",
+ "validity": 11.75
+}{
+ "doTrade": "buy",
+ "price": 901.57999,
+ "time": "13:10:51",
+ "validity": 11.25
+}{
+ "doTrade": "buy",
+ "price": 898.91,
+ "time": "13:12:28",
+ "validity": 13.9375
+}{
+ "doTrade": "buy",
+ "price": 858.38501,
+ "time": "20:30:49",
+ "validity": 11.57421875
+}{
+ "doTrade": "buy",
+ "price": 855.86,
+ "time": "20:45:35",
+ "validity": 13.500000000509317
+}{
+ "doTrade": "buy",
+ "price": 855.76,
+ "time": "20:46:21",
+ "validity": 20.0625
+}{
+ "doTrade": "sell",
+ "price": 849.58,
+ "time": "03:22:50",
+ "validity": 21.295643113553524
+}{
+ "doTrade": "sell",
+ "price": 850.89,
+ "time": "03:46:49",
+ "validity": 12.84844970703125
+}{
+ "doTrade": "sell",
+ "price": 855.97,
+ "time": "04:46:52",
+ "validity": 28.18758773803711
+}{
+ "doTrade": "sell",
+ "price": 855.97,
+ "time": "04:47:14",
+ "validity": 10.25
+}{
+ "doTrade": "sell",
+ "price": 856,
+ "time": "04:50:16",
+ "validity": 25.5
+}{
+ "doTrade": "sell",
+ "price": 855.98,
+ "time": "05:10:47",
+ "validity": 13
+}{
+ "doTrade": "buy",
+ "price": 862,
+ "time": "05:43:33",
+ "validity": 21.5
+}{
+ "doTrade": "sell",
+ "price": 855.96142,
+ "time": "05:49:33",
+ "validity": 20.25
+}{
+ "doTrade": "sell",
+ "price": 855.96242,
+ "time": "05:50:33",
+ "validity": 25.875
+}{
+ "doTrade": "buy",
+ "price": 855.61282,
+ "time": "06:40:57",
+ "validity": 17.1875
+}{
+ "doTrade": "sell",
+ "price": 849.73966,
+ "time": "06:41:51",
+ "validity": 12.1875
+}{
+ "doTrade": "sell",
+ "price": 863.823,
+ "time": "08:06:11",
+ "validity": 10.8709716796875
+}{
+ "doTrade": "sell",
+ "price": 864.88804,
+ "time": "08:14:38",
+ "validity": 12
+}{
+ "doTrade": "buy",
+ "price": 861.43173,
+ "time": "09:16:10",
+ "validity": 12.28125
+}{
+ "doTrade": "buy",
+ "price": 829.27038,
+ "time": "12:43:04",
+ "validity": 11.936767578125
+}{
+ "doTrade": "sell",
+ "price": 823.43101,
+ "time": "12:43:52",
+ "validity": 17.5
+}{
+ "doTrade": "sell",
+ "price": 831.591,
+ "time": "14:16:43",
+ "validity": 10.690681457519531
+}{
+ "doTrade": "sell",
+ "price": 831.591,
+ "time": "14:17:17",
+ "validity": 13
+}{
+ "doTrade": "buy",
+ "price": 827.55,
+ "time": "14:31:51",
+ "validity": 12.54296875
+}{
+ "doTrade": "buy",
+ "price": 826.22,
+ "time": "14:33:05",
+ "validity": 15.234375
+}{
+ "doTrade": "buy",
+ "price": 826.219,
+ "time": "14:33:09",
+ "validity": 10.25
+}{
+ "doTrade": "sell",
+ "price": 817.19001,
+ "time": "14:33:13",
+ "validity": 20
+}{
+ "doTrade": "buy",
+ "price": 823.26204,
+ "time": "14:34:17",
+ "validity": 22
+}{
+ "doTrade": "sell",
+ "price": 817.19001,
+ "time": "14:35:21",
+ "validity": 24.375
+}{
+ "doTrade": "buy",
+ "price": 821.78333,
+ "time": "14:45:21",
+ "validity": 12.248734813183546
+}{
+ "doTrade": "sell",
+ "price": 811.5,
+ "time": "14:47:49",
+ "validity": 11.355712890625
+}{
+ "doTrade": "buy",
+ "price": 811.62921,
+ "time": "16:27:21",
+ "validity": 10.065185546875
+}{
+ "doTrade": "buy",
+ "price": 809.2424,
+ "time": "16:31:27",
+ "validity": 11.81402587890625
+}{
+ "doTrade": "buy",
+ "price": 798.2304,
+ "time": "16:51:59",
+ "validity": 16.1171875
+}{
+ "doTrade": "sell",
+ "price": 801.00086,
+ "time": "19:00:45",
+ "validity": 15.546875
+}{
+ "doTrade": "buy",
+ "price": 797.41999,
+ "time": "19:23:47",
+ "validity": 10.5
+}{
+ "doTrade": "buy",
+ "price": 797.41899,
+ "time": "19:23:52",
+ "validity": 10.625
+}{
+ "doTrade": "buy",
+ "price": 797.34825,
+ "time": "19:24:02",
+ "validity": 22.5
+}{
+ "doTrade": "buy",
+ "price": 797.33998,
+ "time": "19:24:05",
+ "validity": 12.5
+}{
+ "doTrade": "buy",
+ "price": 797.329,
+ "time": "19:24:10",
+ "validity": 13.75
+}{
+ "doTrade": "buy",
+ "price": 797.31997,
+ "time": "19:24:15",
+ "validity": 11.25
+}{
+ "doTrade": "buy",
+ "price": 796.06412,
+ "time": "19:24:22",
+ "validity": 12
+}{
+ "doTrade": "buy",
+ "price": 796.03899,
+ "time": "19:24:38",
+ "validity": 21.140625
+}{
+ "doTrade": "sell",
+ "price": 788.79593,
+ "time": "19:24:46",
+ "validity": 15.75
+}{
+ "doTrade": "buy",
+ "price": 795.99999,
+ "time": "19:25:05",
+ "validity": 15.859375
+}{
+ "doTrade": "buy",
+ "price": 795.97996,
+ "time": "19:25:19",
+ "validity": 10.484375
+}{
+ "doTrade": "buy",
+ "price": 795.44634,
+ "time": "19:25:28",
+ "validity": 12.25
+}{
+ "doTrade": "buy",
+ "price": 795.44533,
+ "time": "19:25:51",
+ "validity": 39.5
+}{
+ "doTrade": "buy",
+ "price": 794.9422,
+ "time": "19:29:55",
+ "validity": 11
+}{
+ "doTrade": "sell",
+ "price": 789.12075,
+ "time": "19:30:04",
+ "validity": 18
+}{
+ "doTrade": "sell",
+ "price": 788.31101,
+ "time": "19:30:11",
+ "validity": 18
+}{
+ "doTrade": "sell",
+ "price": 789.12075,
+ "time": "19:30:54",
+ "validity": 71.75
+}{
+ "doTrade": "sell",
+ "price": 789.67413,
+ "time": "19:31:40",
+ "validity": 10.53125
+}{
+ "doTrade": "sell",
+ "price": 789.67413,
+ "time": "19:31:47",
+ "validity": 12
+}{
+ "doTrade": "buy",
+ "price": 792.25858,
+ "time": "19:37:17",
+ "validity": 24.671875
+}{
+ "doTrade": "buy",
+ "price": 792,
+ "time": "19:39:21",
+ "validity": 13.526222229003906
+}{
+ "doTrade": "sell",
+ "price": 786.47785,
+ "time": "19:40:41",
+ "validity": 16.5
+}{
+ "doTrade": "sell",
+ "price": 795.001,
+ "time": "20:39:23",
+ "validity": 15.763671875
+}{
+ "doTrade": "buy",
+ "price": 800.61383,
+ "time": "20:40:05",
+ "validity": 16.5
+}{
+ "doTrade": "sell",
+ "price": 795.001,
+ "time": "20:41:59",
+ "validity": 19.5
+}{
+ "doTrade": "sell",
+ "price": 795.001,
+ "time": "20:42:37",
+ "validity": 14
+}{
+ "doTrade": "sell",
+ "price": 795.001,
+ "time": "20:43:11",
+ "validity": 15.5
+}{
+ "doTrade": "sell",
+ "price": 795.001,
+ "time": "20:44:19",
+ "validity": 14.5
+}{
+ "doTrade": "sell",
+ "price": 795.00201,
+ "time": "20:44:45",
+ "validity": 10.25
+}{
+ "doTrade": "sell",
+ "price": 803.02938,
+ "time": "23:26:36",
+ "validity": 24.478515625
+}{
+ "doTrade": "buy",
+ "price": 806.0334,
+ "time": "23:37:30",
+ "validity": 22.75
+}{
+ "doTrade": "buy",
+ "price": 806.03237,
+ "time": "23:38:18",
+ "validity": 13.09375
+}{
+ "doTrade": "buy",
+ "price": 803.30037,
+ "time": "23:39:06",
+ "validity": 17.09375
+}{
+ "doTrade": "sell",
+ "price": 800.22657,
+ "time": "00:19:09",
+ "validity": 68
+}{
+ "doTrade": "sell",
+ "price": 800.22657,
+ "time": "00:19:41",
+ "validity": 60
+}{
+ "doTrade": "sell",
+ "price": 800.22657,
+ "time": "00:24:44",
+ "validity": 32.140625
+}{
+ "doTrade": "buy",
+ "price": 806.64,
+ "time": "00:24:52",
+ "validity": 16
+}{
+ "doTrade": "buy",
+ "price": 806.26999,
+ "time": "01:14:04",
+ "validity": 10.500000000931323
+}{
+ "doTrade": "buy",
+ "price": 792.53849,
+ "time": "02:42:40",
+ "validity": 11.263974155238344
+}{
+ "doTrade": "sell",
+ "price": 786.70001,
+ "time": "02:43:51",
+ "validity": 30.25
+}{
+ "doTrade": "sell",
+ "price": 786.70001,
+ "time": "02:46:40",
+ "validity": 23
+}{
+ "doTrade": "sell",
+ "price": 826.73401,
+ "time": "07:56:40",
+ "validity": 12.859375
+}{
+ "doTrade": "buy",
+ "price": 832.40904,
+ "time": "07:58:00",
+ "validity": 121
+}{
+ "doTrade": "sell",
+ "price": 825.80001,
+ "time": "07:58:09",
+ "validity": 12
+}{
+ "doTrade": "sell",
+ "price": 825.78952,
+ "time": "07:58:24",
+ "validity": 28
+}{
+ "doTrade": "buy",
+ "price": 829.50577,
+ "time": "08:04:02",
+ "validity": 13.73535168170929
+}{
+ "doTrade": "buy",
+ "price": 826.61,
+ "time": "08:13:22",
+ "validity": 12.25
+}{
+ "doTrade": "buy",
+ "price": 826.6,
+ "time": "08:19:14",
+ "validity": 19.666722297668457
+}{
+ "doTrade": "sell",
+ "price": 820.55001,
+ "time": "08:20:12",
+ "validity": 29
+}{
+ "doTrade": "sell",
+ "price": 820.56001,
+ "time": "08:20:44",
+ "validity": 12.5
+}{
+ "doTrade": "sell",
+ "price": 820.56,
+ "time": "08:21:14",
+ "validity": 15
+}{
+ "doTrade": "sell",
+ "price": 828.67977,
+ "time": "09:13:26",
+ "validity": 10.0263671875
+}{
+ "doTrade": "sell",
+ "price": 828.67977,
+ "time": "09:16:18",
+ "validity": 26
+}{
+ "doTrade": "sell",
+ "price": 828.67977,
+ "time": "09:19:49",
+ "validity": 24
+}{
+ "doTrade": "sell",
+ "price": 858.82572,
+ "time": "14:39:25",
+ "validity": 14.609375000000046
+}{
+ "doTrade": "buy",
+ "price": 865.02355,
+ "time": "14:39:54",
+ "validity": 13.625
+}{
+ "doTrade": "sell",
+ "price": 858.80001,
+ "time": "18:10:52",
+ "validity": 12.90234375
+}{
+ "doTrade": "buy",
+ "price": 855.90401,
+ "time": "20:51:40",
+ "validity": 13.78140472185392
+}{
+ "doTrade": "sell",
+ "price": 849.85,
+ "time": "20:52:15",
+ "validity": 15.5
+}{
+ "doTrade": "sell",
+ "price": 849.84,
+ "time": "21:01:28",
+ "validity": 29.737060546875
+}{
+ "doTrade": "sell",
+ "price": 849.841,
+ "time": "21:01:53",
+ "validity": 11
+}{
+ "doTrade": "buy",
+ "price": 835.31,
+ "time": "00:05:52",
+ "validity": 10.3203125
+}{
+ "doTrade": "sell",
+ "price": 831.58015,
+ "time": "00:08:46",
+ "validity": 19.03125
+}{
+ "doTrade": "sell",
+ "price": 838.22865,
+ "time": "00:41:19",
+ "validity": 14.889123821165413
+}{
+ "doTrade": "sell",
+ "price": 849.57,
+ "time": "01:24:09",
+ "validity": 11
+}{
+ "doTrade": "sell",
+ "price": 850,
+ "time": "02:09:45",
+ "validity": 11.996813772624531
+}{
+ "doTrade": "sell",
+ "price": 861.28286,
+ "time": "06:48:54",
+ "validity": 14.828125
+}{
+ "doTrade": "sell",
+ "price": 861.28286,
+ "time": "06:53:28",
+ "validity": 16
+}{
+ "doTrade": "sell",
+ "price": 861.28286,
+ "time": "06:54:58",
+ "validity": 13.5
+}{
+ "doTrade": "buy",
+ "price": 864.29477,
+ "time": "06:59:36",
+ "validity": 28.625
+}{
+ "doTrade": "sell",
+ "price": 858.27632,
+ "time": "07:41:45",
+ "validity": 17.5
+}{
+ "doTrade": "buy",
+ "price": 848.83788,
+ "time": "08:39:42",
+ "validity": 17.609375
+}{
+ "doTrade": "buy",
+ "price": 846.44256,
+ "time": "08:50:38",
+ "validity": 10.5
+}{
+ "doTrade": "buy",
+ "price": 846.24155,
+ "time": "08:52:50",
+ "validity": 14.73828125
+}{
+ "doTrade": "sell",
+ "price": 840.34234,
+ "time": "08:58:36",
+ "validity": 13.5
+}{
+ "doTrade": "buy",
+ "price": 846.24256,
+ "time": "09:00:13",
+ "validity": 18.5
+}{
+ "doTrade": "sell",
+ "price": 840.34234,
+ "time": "09:01:13",
+ "validity": 29.5
+}{
+ "doTrade": "buy",
+ "price": 846.41999,
+ "time": "09:02:00",
+ "validity": 14.03125
+}{
+ "doTrade": "buy",
+ "price": 837.68,
+ "time": "09:11:43",
+ "validity": 21.59375
+}{
+ "doTrade": "buy",
+ "price": 837.67,
+ "time": "09:12:14",
+ "validity": 11.5
+}{
+ "doTrade": "sell",
+ "price": 831.591,
+ "time": "09:30:12",
+ "validity": 18.04687500745058
+}{
+ "doTrade": "sell",
+ "price": 834.5,
+ "time": "10:31:54",
+ "validity": 12.367187500030349
+}{
+ "doTrade": "buy",
+ "price": 831.63755,
+ "time": "14:11:38",
+ "validity": 11.75468010855426
+}{
+ "doTrade": "sell",
+ "price": 827.03842,
+ "time": "15:15:28",
+ "validity": 10.765625
+}{
+ "doTrade": "sell",
+ "price": 829.43961,
+ "time": "15:23:58",
+ "validity": 12.5159912109375
+}{
+ "doTrade": "sell",
+ "price": 828.67977,
+ "time": "17:10:23",
+ "validity": 10.75
+}{
+ "doTrade": "buy",
+ "price": 835.00324,
+ "time": "18:14:03",
+ "validity": 11.33203125
+}{
+ "doTrade": "buy",
+ "price": 835.00223,
+ "time": "18:15:49",
+ "validity": 27.3828125
+}{
+ "doTrade": "sell",
+ "price": 829.03,
+ "time": "18:18:53",
+ "validity": 33.940568923950195
+}{
+ "doTrade": "sell",
+ "price": 829.03001,
+ "time": "18:19:53",
+ "validity": 29.5
+}{
+ "doTrade": "buy",
+ "price": 835.00223,
+ "time": "18:21:31",
+ "validity": 17.5
+}{
+ "doTrade": "sell",
+ "price": 829.03001,
+ "time": "18:22:22",
+ "validity": 21
+}{
+ "doTrade": "sell",
+ "price": 829.03001,
+ "time": "18:23:14",
+ "validity": 25
+}{
+ "doTrade": "sell",
+ "price": 834.5,
+ "time": "18:45:29",
+ "validity": 30.43006181716919
+}{
+ "doTrade": "buy",
+ "price": 840.44176,
+ "time": "18:47:46",
+ "validity": 16.5354625582695
+}{
+ "doTrade": "sell",
+ "price": 834.49068,
+ "time": "18:49:46",
+ "validity": 23.125
+}{
+ "doTrade": "sell",
+ "price": 834.49068,
+ "time": "18:50:26",
+ "validity": 16
+}{
+ "doTrade": "sell",
+ "price": 834.49068,
+ "time": "18:51:25",
+ "validity": 28
+}{
+ "doTrade": "buy",
+ "price": 840.35808,
+ "time": "19:04:20",
+ "validity": 20.1796875
+}{
+ "doTrade": "buy",
+ "price": 834.56999,
+ "time": "21:26:36",
+ "validity": 13.748046875
+}{
+ "doTrade": "sell",
+ "price": 832.06929,
+ "time": "00:56:04",
+ "validity": 10.775390625
+}{
+ "doTrade": "sell",
+ "price": 831.9894,
+ "time": "00:57:18",
+ "validity": 11.5
+}{
+ "doTrade": "sell",
+ "price": 832.04186,
+ "time": "00:57:42",
+ "validity": 12
+}{
+ "doTrade": "buy",
+ "price": 837.5,
+ "time": "01:02:06",
+ "validity": 15.13671875
+}{
+ "doTrade": "sell",
+ "price": 832.01,
+ "time": "02:31:15",
+ "validity": 30.125
+}{
+ "doTrade": "sell",
+ "price": 832.01,
+ "time": "02:32:03",
+ "validity": 21
+}{
+ "doTrade": "sell",
+ "price": 832.01,
+ "time": "02:46:06",
+ "validity": 29
+}{
+ "doTrade": "sell",
+ "price": 837.4114,
+ "time": "03:21:48",
+ "validity": 12.25
+}

@@ -1,0 +1,26 @@
+{
+ "doTrade": "buy",
+ "price": 181.397564,
+ "time": "17:53:14",
+ "validity": 26.582042925059795
+}{
+ "doTrade": "sell",
+ "price": 180.040498,
+ "time": "23:55:42",
+ "validity": 12.181328115446377
+}{
+ "doTrade": "buy",
+ "price": 181.960616,
+ "time": "08:14:39",
+ "validity": 13.32713931936867
+}{
+ "doTrade": "buy",
+ "price": 176.999949,
+ "time": "00:02:52",
+ "validity": 12
+}{
+ "doTrade": "sell",
+ "price": 176.305535,
+ "time": "03:34:29",
+ "validity": 12.019992417338992
+}

@@ -1,0 +1,21 @@
+{
+ "doTrade": "sell",
+ "price": 696.51397,
+ "time": "02:10:52",
+ "validity": 10.654688141404902
+}{
+ "doTrade": "buy",
+ "price": 698.98,
+ "time": "05:52:40",
+ "validity": 23.5
+}{
+ "doTrade": "sell",
+ "price": 701.01,
+ "time": "09:14:31",
+ "validity": 14.67704421155353
+}{
+ "doTrade": "buy",
+ "price": 705.86,
+ "time": "12:33:17",
+ "validity": 13
+}
